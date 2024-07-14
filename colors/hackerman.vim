@@ -1,4 +1,5 @@
-" URL: https://github.com/whatyouhide/vim-hackerman
+" URL: https://github.com/rjoost/vim-hackerman-syntax
+" Forked from: https://github.com/mr-ubik/vim-hackerman-syntax
 " Aurhor: Michele 'Ubik' De Simoni <ubik@ubik.tech>
 " Version: 1.0.0
 " License: MIT
